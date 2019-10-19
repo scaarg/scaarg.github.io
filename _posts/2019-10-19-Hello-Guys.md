@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Hello Guys!
+---
+
 My name Oscar and I'm creating a blog again.
 I tried to make it using the fastest method and as easier possible. More importantly, for free.
 
