@@ -1,8 +1,8 @@
 ---
 published: false
 ---
----
-title: Hello Guys!
+
+Hello Guys!
 ---
 
 My name Oscar and I'm creating a blog again.
