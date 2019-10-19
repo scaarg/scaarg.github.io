@@ -1,8 +1,7 @@
 ---
-published: false
----
-
-Hello Guys!
+layout: post
+title: Hello guys
+published: true
 ---
 
 My name Oscar and I'm creating a blog again.
