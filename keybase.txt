@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/scaarg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.acentoenlao.com
+  * I am scaarg (https://keybase.io/scaarg) on keybase.
+  * I have a public key with fingerprint E7EE 7868 3FA8 D50E D62D  3CAA 3445 D2AC 04E3 BF53
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012037092d16de209f859aac499e883f6fd69c940a2a71a46e37318e71a5bd8126c10a",
+      "fingerprint": "e7ee78683fa8d50ed62d3caa3445d2ac04e3bf53",
+      "host": "keybase.io",
+      "key_id": "3445d2ac04e3bf53",
+      "kid": "0101aae20cb0a1d7159ae3e07c0ada2f68f765c3f5a7798a3c109ead3a2a0bb1fc2b0a",
+      "uid": "b373456aad890f8a22666e002b658e19",
+      "username": "scaarg"
+    },
+    "service": {
+      "hostname": "www.acentoenlao.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1571532745,
+  "expire_in": 157680000,
+  "prev": "167d2f8d496ca9f3f29fe9a22cb61b1690f5f238b89517631a043ffb9147c68f",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMN1AnicbZJ9UBRlHMfvBElBBHGYISWwBUmn49r3lxsiBzsZi8YiKiBOeHb3WVhe
+9o675e0IkKlpUKORRJqSsBpfQpkkMoVJUgSpE4XMlFFzhjEEGnSKs4QRk5670f/a
+f3af335/3+f7+c1vIDTAEGykrb90BP5+6nXjUN9nZQbbkaOeaky0y1WYpRorgv4X
+LJahS88tUmXMguEEiVMcLpAywcqQxAWFZwQAJFoQIM9TCqvIrCAJNA5IwBGAZiHF
+UQQP0TcjyjxBshKBA8yEKaqWD50Op6rpyBZyEHI8iwwALzM4lFlSpiQAKJpmZBJI
+OA0pUWEo1Fhgd/k6UDgRuKBZtaMaOuT64/2P/nFunAAABZZEHBAyR6DUkII4J+FA
+BqTC8grHMhKlMIDjBB5QKKYAgUwhDlwUCUUiRX/uMr+diKhohgVA5gVc4QFJsiwL
+cZwUWYaHhOATuqBTAyUQqV2IxJmP1ZgwVCtXJegbq4/j0f+KigozkKCm26FWDOxm
+yV6CDBxOu26X7MVIUKDrDpfFZ6BXOfwdUMx95JUrqpqMhok6yqHTpdo1zEIgpaSr
+PnOCQawUydGMCYOVDtUJc1XNX2Z5HD2+e2A5siRYTiYVXqYFVgKCQimkoEABkUki
+S4gEizgZhaR4kRcYgmMpAuA0pSiiQNCchMaH+ehKNTtmoVmUE+T7wNV8DehlTojV
+nOnLCTQYgw1Bixf5tswQvDT88e7duRu2YM0K1SKi4woyh8+dunb3hU1fl3bZGxYe
+Nq3uMB8I23+1O/mj+Jf2nbyZ2DvN9QZdP7fu/OmMzf+KL+rultm6DL3piSXhxGJD
+3OHo6QHx5o0fjSoeeGiF+bsVcCzial2CF24dcipprR2pXdnbv0h71iu+zffu2XG8
+ZLRv7xbTZFL/cM6t5/NClh98ubx++7H2PI+tfsO2xqmAo2n3Ytdv9sZsaHs/s1pP
+mR9Lrju55znbmegrScs3LrOGW08k3Zvm9d3jbFTXxsb36OYCb+COnp/XvGMceTdz
+19S+yoah/r1iofmD7KbDrVme2E/dE19+lfpWF5jYNj0+3hHiabI++Hz+1u3KlPTT
+k0GzPyXOXewECbH0b47GicL1u7fmnNillc9Rxp5VXnfXU4bkikjLoUHaGLmuZ2dM
+SVhx/EBe29rI8fuO2Yd/mt60ZVsi116vmWqspW6HjSaHTrjMza8WfJhhFt031G/7
+v+kPbP3e1la7MmWm9o9rCaVa00KIdzK2tKxo7pPOQcET3gyHjfffwKq8pvQrnVEr
+6xrMjkXtM+7RbnbucvfBs5cKWz8eOV//TENZxIHa1IBC20V3XFXknV9j+GVLt9RU
+jKibOt3tzVG8eU3pqr8TL3lee6XlyZmnj2c5LlwYerAkvu1ye3/7/rGFnSD9n0Gn
+dXVL+pH5vwKoyaxjjWe9P0wk/wdcN8VO
+=f5z0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scaarg
+
+==================================================================
