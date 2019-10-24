@@ -15,3 +15,5 @@ I adapted a few tools I've used before to this new setup because I'm experimenti
 * Using the "No distractions" option from Brackets combined with the detached preview from brackets-markdown-preview you get this really comfortable fullscreen editor, check it below:
 
 ![Capture of the editor setup](/images/post/editor.png "Nice editor, huh?")
+
+I'll update this post in the future if I start using additional tools.
