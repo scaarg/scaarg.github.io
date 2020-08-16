@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $systemFont;
   color: $darkGray;
 }
@@ -38,7 +38,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  letter-spacing: -2px;
 
   @include mobile {
     line-height: 1.4;
@@ -198,7 +197,7 @@ img {
   font-family: $headerFont;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: -2px;
 }
 
 .site-description {
