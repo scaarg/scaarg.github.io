@@ -3,6 +3,8 @@
 // VARIABLES
 //
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
 // Colors
 $blue: #2f64df;
 
@@ -19,6 +21,7 @@ $white: #fff;
 // $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $georgia: Georgia, serif;
 $systemFont: "system";
+$headerFont: 'Montserrat', sans-serif;
 
 @font-face {
   font-family: system;
@@ -26,9 +29,6 @@ $systemFont: "system";
   font-weight: 300;
   src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI"), local("Roboto"), local("DroidSans"), local("Tahoma");
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
-$headerFont: 'Montserrat', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
