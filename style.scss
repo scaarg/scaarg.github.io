@@ -307,13 +307,12 @@ footer {
 
 iframe 
 embed,
-object{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%    !important;
-  height: auto   !important;
+object,
+video{
+  height: 100vh;
+  width: 100%;
   object-fit: fill;
+  position: absolute;
 }
 
 
