@@ -29,7 +29,7 @@ After that good start, you're presented with more types of love during the movie
 - - - - 
 
 ## The last and most important kind of love
-Before the movie ends and William Parrish meets his end, he's called to the stage and gives what I now consider a goal in life: A speech about being satisfied with life. **The ultimate declaration of self love**.<br>
+Before the movie ends and William Parrish meets his end, he's called to the stage and gives what I now consider a goal in life: A speech about being satisfied with life. _The ultimate declaration of self love_.<br>
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DXief-vtjIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,8 +47,13 @@ where you can wake up one morning and say,<br>
 ...Sixty-five years.<br>
 Don't they go by in a blink....
 
+
 - - - -
 
-That's it from my perspective. Let me know if you have anything you want to share about this great but lenghty movie, I'm all yours @scaarg. Let's talk about Joe Black.
+
+## And that's it...
+From my perspective. I hope you liked this little dumb analysis on different kinds of love I noticed in this classic. I think seeing this now that I'm older really opened my eyes to things I wouldn't have noticed when I was younger. Still, and I know this may seem insensible, but the scene when they kill Young Man in Coffee Shop cracks me up. Exaggerated as it is, I think it's portrayed like that to show the irony of not doing what you have to do before Death gets you.
+
+Let me know if you have anything you want to share about this great but lenghty movie, I'm all yours at <a href="https://www.twitter.com/scaarg">@scaarg</a>. C'mon, let's talk about Joe Black.
 
 See ya!
