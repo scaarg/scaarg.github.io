@@ -309,8 +309,10 @@ iframe
 embed,
 object,
 video{
-  width: 100%    !important;
-  height: auto   !important;
+  height: 100vh;
+  width: 100%;
+  object-fit: fill;
+  position: absolute;
 }
 
 

@@ -4,8 +4,9 @@ title: Let's talk about Joe Black
 published: true
 ---
 
-Just recently I watched "Meet Joe Black" again. I don't know how long it's been since the last time, but I know it's been at least a few years. And woah, was it different from what I remembered.<br><br>
-You know how they say that after you grow a certain age you start appreciating stuff you did not before? Well, it immediately rang a bell after seeing this movie again. It's not as boring, not as cheesy and I enjoyed it in a much different way than before &ndash; but still as long as I remembered. I found it quite _exquisite_, to be honest. Like it was conceived to tenderly portrait the different kinds of love that exist and how they mold us. I think I smiled througout the whole thing.<br><br>
+Just recently I watched "Meet Joe Black" again. I don't know how long it's been since the last time, but I know it's been at least a few years. And woah, was it different from what I remembered.
+
+You know how they say that after you grow a certain age you start appreciating stuff you did not before? Well, it immediately rang a bell after seeing this movie again. It's not as boring, not as cheesy and I enjoyed it in a much different way than before &ndash; but still as long as I remembered. I found it quite _exquisite_, to be honest. Like it was conceived to tenderly portrait the different kinds of love that exist and how they mold us. I think I smiled througout the whole thing.
 
 It reminded me of the movies in the Jane Austen-ish gentry genre, with but brought to modern day &ndash; well, "modern"; this thing is 22 years old (!) &ndash; with is beautiful script, particularly the quote from Willian Parrish (Anthony Hopkins) when talking to his daughter Susan (Claire Forlani):
 
