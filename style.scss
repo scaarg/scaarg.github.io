@@ -309,6 +309,7 @@ footer {
   position: relative;
   padding-bottom: calc(var(--aspect-ratio, .5625) * 100%); 
   height: 0;
+  align-content: center;
 }
 .videoWrapper iframe 
 .videoWrapper embed,
