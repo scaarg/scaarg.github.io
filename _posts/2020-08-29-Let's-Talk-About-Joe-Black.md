@@ -47,6 +47,6 @@ Don't they go by in a blink....
 
 - - - -
 
-That's it. Let me know if you have anything you want to share about this great but lenghty movie, I'm all yours @scaarg. Let's talk about Joe Black.
+That's it from my perspective. Let me know if you have anything you want to share about this great but lenghty movie, I'm all yours @scaarg. Let's talk about Joe Black!
 
 See ya!
