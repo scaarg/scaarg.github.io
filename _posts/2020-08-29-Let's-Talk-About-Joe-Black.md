@@ -30,7 +30,7 @@ After that good start, you're presented with more types of love during the movie
 ## The last and most important kind of love
 Before the movie ends and William Parrish meets his end, he's called to the stage and gives what I now consider a goal in life: A speech about being satisfied with life. **The ultimate declaration of self love**.<br>
 
-<div class="videoWrapper" style="--aspect-ratio: 3 / 4;">
+<div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DXief-vtjIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
