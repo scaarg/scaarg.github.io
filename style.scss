@@ -117,6 +117,11 @@ img {
   max-width: none;
 }
 
+figcaption{
+  font-variant: small-caps;
+  text-align: center;
+}
+
 .date {
   font-style: italic;
   color: $gray;
