@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hola mundo
-published: false
+published: true
 ---
 
 <div style="display:block; margin:auto;">
