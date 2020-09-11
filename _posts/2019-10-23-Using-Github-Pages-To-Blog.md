@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Github Pages to Blog
-published: true
+published: false
 ---
 
 Hi guys, I just wanted to give you a quick run of the tools I used to create this blog and what I'm using for writing and publishing. It's not set in stone yet, but this is what's been working for me in the meantime. I'm still doing research on how to improve my workflow so if you have anything better, please let me know.

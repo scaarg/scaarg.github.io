@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID Times
-published: true
+published: false
 ---
 
 Hi guys, long time no see. There's two options right now:

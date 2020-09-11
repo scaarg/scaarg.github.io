@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+  color: $orange;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $orange;
   }
 }
 
@@ -234,7 +234,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $orange;
     }
   }
 }
@@ -320,7 +320,6 @@ footer {
   width: 100%;
   height: 100%;
 }
-
 
 /***************/
 /* CSS IMPORT  */
