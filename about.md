@@ -4,20 +4,22 @@ title: About
 permalink: /about/
 ---
 
-## Hi, my name is Oscar Garcia
-Raised and adopted by Ciudad Juarez, MX, I can be a few things at the same time:
+## Hola, mi nombre es Oscar Garcia
+Nacido y adoptado por Ciudad Juarez, MX; este soy yo.
 
-* Based on my education, I'm a Mechatronics Engineer with a diploma on AI <i>(gotta flex it whenever I can, right?)</i>.<br>
-* Based on my profession, I'm the buyer of raw materials used in healthcare devices.<br>
-* Based on my passions, I can go from unsuccesful self-taught musician to a I-never-really-tried-hard-enough web coder back and forth every year. I like to keep things interesting... I guess.<br>
-* Based on my viewing habits, I'm a closet otaku with a unhealthy liking for rom-coms, you know, for a guy.<br>
+<img src="{{ site.baseurl }}/images/oscar.jpg" alt="Retrato de Oscar Garcia"/>
 
-And I think that's alright, right?<br>
+En base a:
+* **Mi educacion** soy un Ingeniero Mecatronico con un diploma en Inteligencia Artificial &ndash; hay que presumirlo cada que se pueda, ¿a poco no?
+* **Mi profesion** he sido un comprador de materia prima para una compañia de dispositivos medicos durante los ultimos años.
+* **Mis pasiones** puedo ser un musico autodidacta fracasado o un programador / diseñador web que realmente nunca se ha esforzado mucho. Me gusta mantener las cosas interesantes... supongo.
+* **Mis habitos televisivos** soy un otaku closetero con un gusto demasiado enfermizo por las comedias romanticas para ser hombre.
 
-It's been a while since I published &mdash; and mantained! &mdash; a blog but here we are, once again. I will keep things mostly personal but please don't be offended if I publish a technical post here and there because, well, sharing is caring.<br>
+Y creo que esta bien, ¿no? Soy lo que soy.
 
-I really appreciate it if you reached this point in this intro / bio thing. Now you know what you're in for. Welcome, hopefully, I'll see you around!
+Ha pasado un tiempo desde que publique &ndash; ¡y mantuve! &ndash; un blog pero aqui estamos, otra vez. Voy a tratar de publicar cosas mayormente personales pero no te ofendas si de repente publica uno que otro post tecnico. Creo que amar es compartir, y que mejor que compartir conocimiento.
 
-### Contact me
-Please don't hesitate to reach out to me at
-[oscar@acentoenlao.com](mailto:email@domain.com).
+Realmente aprecio que hayas leido hasta este punto en esta carente autobiografia. Bajo aviso no hay engaño, ya sabes que esperar.
+
+## Contactame
+No dudes en hablarme, no muerdo fuerte. Me puedes contactar por [correo electronico](mailto:oscar@acentoenlao.com) o mandame un tweet en [@scaarg](http://www.twitter.com/scaarg).
