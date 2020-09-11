@@ -9,7 +9,6 @@ Nacido en costa y adoptado por Ciudad Juarez, MX; este soy yo.
 
 <img src="{{ site.baseurl }}/images/oscar.jpg" alt="Retrato de Oscar Garcia"/>
 
-En base a:
 * **En base a mi educacion** soy un Ingeniero Mecatronico con un diploma en Inteligencia Artificial &ndash; hay que presumirlo cada que se pueda, ¿a poco no?
 * **En base a mi profesion** he sido un comprador de materia prima para una compañia de dispositivos medicos durante los ultimos años.
 * **En base a mis pasiones** puedo ser un musico autodidacta fracasado o un programador / diseñador web que realmente nunca se ha esforzado mucho. Me gusta mantener las cosas interesantes... supongo.
@@ -22,5 +21,5 @@ Ha pasado un tiempo desde que publique &ndash; ¡y mantuve! &ndash; un blog pero
 Realmente aprecio que hayas leido hasta este punto en esta carente autobiografia. Bajo aviso no hay engaño, ya sabes que esperar.
 
 ## Contactame
-No dudes en hablarme, no muerdo fuerte. 
+No dudes en hablarme, no muerdo fuerte. <br>
 Me puedes contactar por [correo electronico](mailto:oscar@acentoenlao.com) o mandame un tweet en [@scaarg](http://www.twitter.com/scaarg).
