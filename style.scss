@@ -148,10 +148,10 @@ figcaption{
 
 // Specify the color of the selection
 ::-moz-selection {
-  background: $yellow;
+  background: $brightYellow;
 }
 ::selection {
-  background: $yellow;
+  background: $brightYellow;
 }
 
 // Nicolas Gallagher's micro clearfix hack
