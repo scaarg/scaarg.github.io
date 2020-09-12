@@ -8,7 +8,10 @@ published: true
 Que tal, buen dia. Mi nombre es Oscar Garcia y estoy creando un blog &ndash; si, otra vez.
 Este blog esta hecho de la forma mas rapida y facil posible. Y, sobre todo, gratis.
 
-<img src="{{ site.baseurl }}/images/svg/blog-start.svg" alt="Chico junto a su nuevo blog"/>
+<figure>
+    <img src="{{ site.baseurl }}/images/svg/blog-start.svg" alt="Chico junto a su nuevo blog"/>
+    <figcaption>Imagen cortesia de <a href="https://undraw.co/">unDraw</a></figcaption>
+</figure>
 
 Lo logre utilizando un proyecto llamado [Jekyll Now](https://github.com/barryclark/jekyll-now) y parece funcionar bien, por el momento. Seguramente la siguiente publicacion sera un tutorial sobre como lo hice, para aquellos que quieren empezar con su propio blog. Al fin y al cabo, la competencia siempre es buena. Y, hey, si creas tu blog luego de haber leido esta publicacion, echame un grito a [@scaarg](http://www.twitter.com/scaarg).
 
