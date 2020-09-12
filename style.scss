@@ -108,18 +108,18 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
 }
 
 figcaption{
   font-variant: small-caps;
   text-align: center;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
 }
 
 .date {
