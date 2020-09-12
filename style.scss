@@ -78,7 +78,7 @@ a {
   }
 }
 
-.button {
+a.button {
   background-color: $orange;
   border: none;
   color: white;
@@ -91,6 +91,10 @@ a {
   border-radius: 4px;
   font-variant: small-caps;
   font-weight: bold;
+}
+
+a.button:hover{
+  color: $black;
 }
 
 ul, ol {
