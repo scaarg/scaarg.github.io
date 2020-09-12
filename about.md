@@ -31,6 +31,6 @@ Ha pasado un tiempo desde que publique &ndash; ¡y mantuve! &ndash; un blog pero
 
 En fin, realmente aprecio que hayas leido hasta este punto en esta carente autobiografía. Bajo aviso no hay engaño, ya sabes que esperar.
 
-## Contactame
+## Contacto
 No dudes en hablarme, no muerdo fuerte. <br>
 Me puedes contactar por [correo electrónico](mailto:oscar@acentoenlao.com) o mándame un tweet en [@scaarg](http://www.twitter.com/scaarg).
