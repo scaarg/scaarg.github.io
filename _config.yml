@@ -6,10 +6,10 @@
 name: Acento en la O
 
 # Short bio or description (displayed in the header)
-description: A new blog, once again
+description: El blog personal de Oscar García
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/icon.png
+avatar: /images/icon.svg
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: scaarg
-  instagram: scaarg
+  instagram: acentoenlaoblog
   linkedin:
   pinterest:
   rss: yes # just type anything here for a working RSS icon
