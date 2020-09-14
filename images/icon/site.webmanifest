@@ -1,6 +1,7 @@
 {
-    "name": "AELO",
+    "name": "Acento en la O",
     "short_name": "AELO",
+    "description": "El blog personal de Oscar García",
     "icons": [
         {
             "src": "https://www.acentoenlao.com/images/icon/android-chrome-192x192.png?v2=kPLvvJ9L9R",
@@ -16,5 +17,6 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "start_url": "https://www.acentoenlao.com/",
-    "display": "standalone"
+    "display": "standalone",
+    "scope": "/",
 }
