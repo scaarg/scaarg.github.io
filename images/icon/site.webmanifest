@@ -3,12 +3,12 @@
     "short_name": "AELO",
     "icons": [
         {
-            "src": "https://www.acentoenlao.com/images/icon/android-chrome-192x192.png",
+            "src": "https://www.acentoenlao.com/images/icon/android-chrome-192x192.png?v2=kPLvvJ9L9R",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://www.acentoenlao.com/images/icon/android-chrome-512x512.png",
+            "src": "https://www.acentoenlao.com/images/icon/android-chrome-512x512.png?v2=kPLvvJ9L9R",
             "sizes": "512x512",
             "type": "image/png"
         }
