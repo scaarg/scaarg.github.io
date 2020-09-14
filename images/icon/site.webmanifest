@@ -18,5 +18,5 @@
     "background_color": "#ffffff",
     "start_url": "https://www.acentoenlao.com/",
     "display": "minimal-ui",
-    "scope": "/",
+    "scope": "/"
 }
