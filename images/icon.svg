@@ -1,5 +1,9 @@
-<svg width="5000" height="5000" viewBox="0 0 5000 5000" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="580" y="580" width="3840" height="3840" fill="url(#pattern0)"/>
+<svg width="925" height="925" viewBox="0 0 925 925" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="925" height="925" fill="url(#pattern0)"/>
+<circle cx="462.812" cy="462.812" r="423.78" fill="#263238"/>
+<ellipse cx="463.37" cy="462.812" rx="384.19" ry="382.517" fill="#FFC336"/>
+<path d="M527.829 372.48L800.164 646.822L786.224 670.242L770.611 692.546L753.325 713.735L734.366 733.809L714.292 752.767L695.891 767.265L677.491 780.647L660.205 791.242L644.815 800.164L372.48 527.829L527.829 372.48Z" fill="black" fill-opacity="0.12"/>
+<circle cx="463.37" cy="463.37" r="109.848" fill="#263238"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0" transform="scale(0.000244141)"/>
