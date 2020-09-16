@@ -13,3 +13,5 @@ Sin embargo, siempre llega la tormenta, los vientos y mareos, decaídas a la san
 Puedes ver, siempre recuerdo las partes mas iluminadas de nuestra tristeza, aquellas en que un majestuoso rayo convertía toda la oscuridad en luz y por un momento, solo por ese momento, las gotas de lluvia, trozos de nuestras almas despedazadas que caían del cielo, no se veían mas. Tan poco probable como posible, la luz opaca la oscuridad.
 
 A veces quisiera que no fueras solo un sueño y poder combatir realidad con realidad.
+
+_Original escrito en Enero 5, 2011_
