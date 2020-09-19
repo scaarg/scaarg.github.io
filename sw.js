@@ -1,10 +1,10 @@
 const cacheName = "aelo";
 const staticAssets = [
-  "./",
-  "./index.html",
-  "./index.js",
-  "./images",
-  "./css/style.css",
+  "/",
+  "/index.html",
+  "/index.js",
+  "/images",
+  "/css/style.css",
 ];
 
 self.addEventListener("install", async (e) => {
