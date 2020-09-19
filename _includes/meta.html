@@ -1,40 +1,64 @@
-	<!-- GENERAL -->
-	<meta charset="utf-8" />
-  <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=5.0'>
-  <meta name="description" content="El blog personal de Oscar García">
+<!-- GENERAL -->
+<meta charset="utf-8" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
+/>
+<meta name="description" content="El blog personal de Oscar García" />
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-    
-  <!-- ICON AND THEMING -->
-  <link rel="icon" type="image/svg+xml" href="/images/icon.svg">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/icon/apple-touch-icon.png?v2=kPLvvJ9L9R">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/icon/favicon-32x32.png?v2=kPLvvJ9L9R">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/icon/favicon-16x16.png?v2=kPLvvJ9L9R">
-  <link rel="manifest" href="/images/icon/site.webmanifest?v2=kPLvvJ9L9R">
-  <link rel="mask-icon" href="/images/icon/safari-pinned-tab.svg?v2=kPLvvJ9L9R" color="#ba8915">
-  <link rel="alternate icon" href="/images/icon/favicon.ico?v2=kPLvvJ9L9R">
-  <meta name="apple-mobile-web-app-title" content="AELO">
-  <meta name="application-name" content="AELO">
-  <meta name="msapplication-TileColor" content="#cc4b23">
-  <meta name="msapplication-config" content="/images/icon/browserconfig.xml?v2=kPLvvJ9L9R">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="apple-mobile-web-app-capable" content="yes">    
-	<meta name="apple-mobile-web-app-status-bar-style" content="black">
-    
-  {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-  {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-  {% endif %}
-    <meta name="author" content="{{ site.name }}" />
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
-  {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
-  {% endif %}
+<!-- ICON AND THEMING -->
+<link rel="icon" type="image/svg+xml" href="/images/icon.svg" />
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="/images/icon/apple-touch-icon.png?v3=jw3E5qWyxe"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="/images/icon/favicon-32x32.png?v3=jw3E5qWyxe"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="/images/icon/favicon-16x16.png?v3=jw3E5qWyxe"
+/>
+<link rel="manifest" href="/images/icon/site.webmanifest?v3=jw3E5qWyxe" />
+<link
+  rel="mask-icon"
+  href="/images/icon/safari-pinned-tab.svg?v3=jw3E5qWyxe"
+  color="#cc4b23"
+/>
+<link rel="shortcut icon" href="/images/icon/favicon.ico?v3=jw3E5qWyxe" />
+<meta name="apple-mobile-web-app-title" content="AELO" />
+<meta name="application-name" content="AELO" />
+<meta name="msapplication-TileColor" content="#cc4b23" />
+<meta
+  name="msapplication-config"
+  content="/images/icon/browserconfig.xml?v3=jw3E5qWyxe"
+/>
+<meta name="theme-color" content="#ffffff" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt| strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+{% else %}
+<meta name="description" content="{{ site.description }}" />
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+<meta name="author" content="{{ site.name }}" />
+
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+{% endif %}

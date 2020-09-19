@@ -1,38 +1,45 @@
-
-//
 // VARIABLES
-//
 
-//@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+// FONTS
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"),
+    local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI"),
+    local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
 
-// Colors
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url(/fonts/KumbhSans-Regular.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url(/fonts/KumbhSans-Bold.ttf);
+  font-weight: bold;
+}
+
+$systemFont: "system";
+$headerFont: "Kumbh Sans", sans-serif;
+
+// COLORS
 $blue: #2f64df;
 $green: #337357;
-$brightYellow: #FFE19C;
+$brightYellow: #ffe19c;
 $yellow: #ffc336;
 $orange: #cc4b23;
-$red: #A4031F;
+$red: #a4031f;
 
-// Grays
+// GRAYS
 $black: #000;
 $darkerGray: #121212;
 $darkGray: #272727;
 $gray: #666;
 $lightGray: #e5e5e5;
 $white: #fff;
-
-// Font stacks
-$systemFont: "system";
-$headerFont: 'Kumbh Sans', sans-serif;
-//$headerFont: 'Montserrat', sans-serif;
-
-@font-face {
-  font-family: system;
-  font-style: normal;
-  font-weight: 300;
-  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
-}
 
 // Mobile breakpoints
 @mixin mobile {

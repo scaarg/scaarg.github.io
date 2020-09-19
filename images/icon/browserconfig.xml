@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="https://www.acentoenlao.com/images/icon/mstile-70x70.png?v2=kPLvvJ9L9R"/>
-            <square150x150logo src="https://www.acentoenlao.com/images/icon/mstile-150x150.png?v2=kPLvvJ9L9R"/>
+            <square70x70logo src="/images/icon/mstile-70x70.png?v3=jw3E5qWyxe"/>
+            <square150x150logo src="/images/icon/mstile-150x150.png?v3=jw3E5qWyxe"/>
             <TileColor>#cc4b23</TileColor>
         </tile>
     </msapplication>
