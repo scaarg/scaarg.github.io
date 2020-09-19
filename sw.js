@@ -1,11 +1,5 @@
 const cacheName = "aelo";
-const staticAssets = [
-  "/",
-  "/index.html",
-  "/index.js",
-  "/images",
-  "/css/style.css",
-];
+const staticAssets = ["/", "/index.html", "/index.js", "/css/style.css"];
 
 self.addEventListener("install", async (e) => {
   const cache = await caches.open(cacheName);

@@ -17,7 +17,7 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffc336",
-  "start_url": "https://www.acentoenlao.com/",
-  "scope": "https://www.acentoenlao.com/",
+  "start_url": "/",
+  "scope": "/",
   "display": "minimal-ui"
 }
