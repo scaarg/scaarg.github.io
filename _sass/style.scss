@@ -145,6 +145,12 @@ figcaption {
   padding-bottom: 30px;
 }
 
+span.emoji {
+  font-size: 16px;
+  vertical-align: middle;
+  line-height: 2;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
