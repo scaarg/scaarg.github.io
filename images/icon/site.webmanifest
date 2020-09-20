@@ -1,15 +1,15 @@
 {
   "name": "AELO",
-  "short_name": "AELO",
+  "short_name": "Acento En La O",
   "icons": [
     {
-      "src": "/images/icon/android-chrome-192x192.png?v3=jw3E5qWyxe",
+      "src": "/images/icon/android-chrome-192x192.png?v4=3ewBrK7MPJ",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/images/icon/android-chrome-512x512.png?v3=jw3E5qWyxe",
+      "src": "/images/icon/android-chrome-512x512.png?v4=3ewBrK7MPJ",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -19,5 +19,5 @@
   "background_color": "#ffffff",
   "start_url": "/",
   "scope": "/",
-  "display": "minimal-ui"
+  "display": "standalone"
 }
