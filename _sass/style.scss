@@ -156,24 +156,6 @@ span.emoji {
   vertical-align: sub;
 }
 
-pre {
-  background: #121212;
-  border: 1px solid #e5e5e5;
-  border-left: 3px solid #cc4b23;
-  color: $lightGray;
-  page-break-inside: avoid;
-  font-family: monospace;
-  font-size: 15px;
-  line-height: 1.6;
-  margin-bottom: 1.6em;
-  max-width: 100%;
-  overflow-x: auto;
-  padding: 1em 1.5em;
-  display: block;
-  word-wrap: break-word;
-  white-space: pre;
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
