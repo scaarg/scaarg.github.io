@@ -1,4 +1,4 @@
-.highlight {
+pre.highlight {
   color: $lightGray;
   font-weight: bold;
   background-color: #121212;
@@ -9,6 +9,7 @@
   display: block;
   overflow: hidden;
   word-break: normal;
+  word-wrap: break-word;
   white-space: pre-wrap;
   tab-size: 2;
 }
