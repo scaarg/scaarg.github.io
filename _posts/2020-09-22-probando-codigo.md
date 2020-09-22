@@ -29,6 +29,17 @@ But let's throw in a <b>tag</b>.
 
 Muchas gracias por formar parte de ésta prueba. Obviamente lo lograré poner en formato, sólo quería darles una oportunidad de ver como hago las cosas. Hasta el día de hoy, no le he dado formato a elemento HTML hasta no necesitarlo y ha sido un dolor de cabeza. Publicar algo y que no se vea de la forma que quieres... Creo que no hay un sentimiento más horrible.
 
+## Update
+
+Al publicar por primera vez este post, así se veían los bloques de código:
+
+<figure>
+    <img src="/images/post/codecss.png" alt="Bloques de codigo con formato horrible">
+    <figcaption>¡El horror encarnado!</figcaption>
+</figure>
+
+Fin del update.
+
 Quiza debería usar una publicación de _"sample"_, ¿no? Tal vez luego. Y sólo para los nerds, este blog esta escrito en [Markdown](http://daringfireball.net/projects/markdown/) pero con un _back end_ como el mío &ndash; Jekyll colgado en GitHub Pages &ndash; no es fácil crear un ambiente de desarrollo de preproducción como si solamente fuera HTML y CSS. Bueno, al menos yo no he podido configurarlo.
 
 En fin, gracias otra vez si leíste esto. Prometo que el siguiente si será interesante.
