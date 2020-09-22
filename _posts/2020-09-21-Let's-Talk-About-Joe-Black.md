@@ -30,8 +30,6 @@ After that good start, you're presented with more types of love during the movie
 - **Discharged middle child syndrome** (Allison and William): You know Allison is constantly ignored by her father but it doesn't seem to upset her as much as one would think it should, right? That's because she's been living with it all her life and she's through with it. She's gone through therapy and it's now a thing she embraces and by the end of the movie she let her dad know: "I've felt loved, and that's all that matters. So, never mind favorites. You're allowed to have one. The point is, you've been mine", she tells him.
 - **Comradery love** (Quince, Joe and Bill): Guys are allowed to love each other, too. Whether we want to accept it or not. By the end of the movie the trio are all friends and seem to trust each other as if was a second nature. Maybe it is? We just need to find the right guys.
 
----
-
 ## The last and most important kind of love
 
 Before the movie ends and William Parrish meets his end, he's called to the stage and gives what I now consider a goal in life: A speech about being satisfied with life. _The ultimate declaration of self love_.<br>
