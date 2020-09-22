@@ -2,9 +2,9 @@
   color: $lightGray;
   font-weight: bold;
   background-color: #121212;
-  border-left: 3px solid #cc4b23;
   border-radius: 8px;
   padding: 1em 0.5em;
+  margin-bottom: 1.5em;
   page-break-inside: avoid;
   display: block;
   overflow: hidden;
@@ -19,6 +19,7 @@ code {
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
     monospace;
+  border-left: 3px solid #cc4b23;
 }
 
 .highlight .c {
