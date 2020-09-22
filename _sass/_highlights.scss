@@ -1,15 +1,16 @@
 .highlight {
-  font-size: 15px;
   color: $lightGray;
   background-color: #121212;
-  border-left: 3px solid #cc4b23;
+  border-radius: 8px;
   padding: 1em 1.5em;
   margin-bottom: 1.6em;
   page-break-inside: avoid;
   display: block;
-  overflow: auto;
+  overflow: hidden;
   word-wrap: break-word;
+  word-break: normal;
   white-space: pre;
+  tab-size: 2;
 }
 
 code {
