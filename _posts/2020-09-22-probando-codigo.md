@@ -27,9 +27,11 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-Muchas gracias por formar parte de ésta prueba. Obviamente lo lograré poner en formato, sólo quería darles una oportunidad de ver como hago las cosas. Hasta el día de hoy, no le he dado formato a elemento HTML hasta no necesitarlo y ha sido un dolor de cabeza. Publicar algo y que no se vea de la forma que quieres... Creo que no hay un sentimiento más horrible.
+Quiza debería usar una publicación de _"sample"_, ¿no? Tal vez luego. Y sólo para los nerds, este blog esta escrito en [Markdown](http://daringfireball.net/projects/markdown/) pero con un _back end_ como el mío &ndash; Jekyll colgado en GitHub Pages &ndash; no es fácil crear un ambiente de desarrollo de preproducción como si solamente fuera HTML y CSS. Bueno, al menos yo no he podido configurarlo.
 
-## Update
+---
+
+## Update #1
 
 Al publicar por primera vez este post, así se veían los bloques de código:
 
@@ -38,8 +40,33 @@ Al publicar por primera vez este post, así se veían los bloques de código:
     <figcaption>¡El horror encarnado!</figcaption>
 </figure>
 
-Fin del update.
+## Update #2
 
-Quiza debería usar una publicación de _"sample"_, ¿no? Tal vez luego. Y sólo para los nerds, este blog esta escrito en [Markdown](http://daringfireball.net/projects/markdown/) pero con un _back end_ como el mío &ndash; Jekyll colgado en GitHub Pages &ndash; no es fácil crear un ambiente de desarrollo de preproducción como si solamente fuera HTML y CSS. Bueno, al menos yo no he podido configurarlo.
+Las propiedades que permitieron que el codigo se viera bien fueron:
+
+```css
+pre {
+  color: #e5e5e5;
+  font-weight: bold;
+  background-color: #121212;
+  border-left: 3px solid #cc4b23;
+  border-radius: 8px;
+  padding: 1em 1.5em;
+  margin-bottom: 1.5em;
+  page-break-inside: auto;
+  display: block;
+  overflow: hidden;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: pre;
+  tab-size: 2;
+}
+```
+
+Fin del update
+
+---
+
+Muchas gracias por formar parte de ésta prueba. Obviamente lo lograré poner en formato, sólo quería darles una oportunidad de ver como hago las cosas. Hasta el día de hoy, no le he dado formato a elemento HTML hasta no necesitarlo y ha sido un dolor de cabeza. Publicar algo y que no se vea de la forma que quieres... Creo que no hay un sentimiento más horrible.
 
 En fin, gracias otra vez si leíste esto. Prometo que el siguiente si será interesante.

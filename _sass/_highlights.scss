@@ -1,8 +1,8 @@
 pre.highlight {
   color: $lightGray;
   font-weight: bold;
-  background-color: #121212;
-  border-left: 3px solid $yellow;
+  background-color: $darkerGray;
+  border-left: 3px solid $orange;
   border-radius: 8px;
   padding: 1em 1.5em;
   margin-bottom: 1.5em;
@@ -10,8 +10,8 @@ pre.highlight {
   display: block;
   overflow: hidden;
   word-break: normal;
-  word-wrap: break-word;
-  white-space: pre-wrap;
+  word-wrap: normal;
+  white-space: pre;
   tab-size: 2;
 }
 
