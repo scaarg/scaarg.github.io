@@ -1,5 +1,5 @@
 pre.highlight {
-  color: $lightGray;
+  color: $white;
   background-color: $darkerGray;
   border-left: 3px solid $orange;
   border-radius: 8px;
@@ -15,6 +15,7 @@ pre.highlight {
 }
 
 code {
+  font: 18px/1.4;
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
