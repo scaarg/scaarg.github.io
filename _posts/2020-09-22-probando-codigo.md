@@ -47,13 +47,12 @@ Las propiedades que permitieron que el codigo se viera bien fueron:
 ```css
 pre {
   color: #e5e5e5;
-  font-weight: bold;
   background-color: #121212;
   border-left: 3px solid #cc4b23;
   border-radius: 8px;
   padding: 1em 1.5em;
   margin-bottom: 1.5em;
-  page-break-inside: auto;
+  page-break-inside: avoid;
   display: block;
   overflow-x: auto;
   word-break: normal;

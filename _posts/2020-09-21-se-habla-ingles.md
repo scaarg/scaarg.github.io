@@ -18,4 +18,4 @@ Y quiero aprender:
 - Alemán.
 
 Si dominan alguno de ellos, no duden en sacar el cobre y mandarme un mensaje [@scaarg](https://www.twitter.com/scaarg).
-Nos leemos pronto. Read you soon. À bientôt. おやすみ.
+Nos leemos pronto. Read you soon. À bientôt. また ね.
