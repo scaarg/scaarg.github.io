@@ -55,7 +55,7 @@ pre {
   margin-bottom: 1.5em;
   page-break-inside: auto;
   display: block;
-  overflow: hidden;
+  overflow-x: auto;
   word-break: normal;
   word-wrap: normal;
   white-space: pre;
