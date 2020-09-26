@@ -26,7 +26,7 @@ Viendo entre nuestros conocidos, encontramos a alguien que tenía un blog llamad
 Años después retomé la idea de crear un blog pero ahora quería hacerlo mío y sin una meta. Ahora relaciono más el nombre con una historia personal.
 Y es el hecho de que mi nombre se escribe con acento en la O &ndash; Óscar &ndash; pero mi acta de nacimiento no lo tiene.
 
-_Irónicamente el dueño de \_Acento en la O_ no tiene acento en la o.\_
+_Irónicamente el dueño de Acento en la O no tiene acento en la o._
 
 ## Contenido
 
