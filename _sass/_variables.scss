@@ -1,7 +1,7 @@
 // VARIABLES
 
 // FONTS
-@font-face {
+/*@font-face {
   font-family: system;
   font-style: normal;
   font-weight: 300;
@@ -9,6 +9,7 @@
     local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI"),
     local("Roboto-Light"), local("DroidSans"), local("Tahoma");
 }
+*/
 
 @font-face {
   font-family: "Kumbh Sans";
@@ -26,7 +27,8 @@
   font-display: swap;
 }
 
-$systemFont: "system", sans-serif;
+$systemFont: "system", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
 $headerFont: "Kumbh Sans", sans-serif;
 
 // COLORS
