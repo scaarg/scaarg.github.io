@@ -4,9 +4,7 @@ title: I bought my first crypto
 published: true
 ---
 
-Hi guys, I hope you're having a great day.
-
-Well, today's post won't be so complex or long, and that's because I simply don't want to enter into the intricacies of the whole topic, but as the title says, I bought my first crypto!
+Hi guys, I hope you're having a great day. Well, today's post won't be so complex or long, and that's because I simply don't want to enter into the intricacies of the whole topic, but as the title says, I bought my first crypto!
 
 To be honest I was wary of the whole thing and I disregarded it because it seemed too complicated and for someone like me, who likes to obsess over every little detail, it was just a handful of stuff to check and analyze. But then, with the support of my friends Pablo and Edgar, I decided to ride the #Dogecoin train and ended up buying $50 dlls worth of the crypto. And to be honest, it was waaaay easier than I thought it would be. You just need to find the right app for you and game's on.
 
