@@ -27,8 +27,8 @@
   font-display: swap;
 }
 
-$systemFont: "system", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+$systemFont: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Ubuntu, sans-serif;
 $headerFont: "Kumbh Sans", sans-serif;
 
 // COLORS
